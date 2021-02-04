@@ -1,1 +1,1 @@
-# teraform-ec2
+# terraform-ec2
